@@ -11,7 +11,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **an ecommerce website**More actions
+🔭 I’m currently working on **an ecommerce website**
 
  🌱 I’m currently learning **Tailwind, React**
  
