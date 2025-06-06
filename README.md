@@ -1,16 +1,23 @@
-## Hi there 👋
+🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
 
-<!--
-**precious0311/precious0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-Here are some ideas to get you started:
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ </div>
+
+<div align="center"> 
+@@ -64,11 +64,13 @@
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
+<br/>
