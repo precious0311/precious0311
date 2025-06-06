@@ -7,7 +7,7 @@
 
 <h3 align="center">A Frontend Developer from the Philippines</h3>
 
-<br/>More actions
+<br/>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
  
  </div>
 
-<div align="center"> Add commentMore actions
+<div align="center"> 
   <a href="precious.rndlla03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -31,20 +31,20 @@
   </a>
 </div>
 
- <hr/>More actions
+ <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?python,javascript,firebase,mysql,flask" /><br>
 </div>
-More actions
+
 <br/>
 <hr/>
 
 <div align="center">More actions
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
